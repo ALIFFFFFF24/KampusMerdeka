@@ -1,0 +1,30 @@
+.content{
+    height: 100vh;
+}
+li a{
+    text-decoration: none;
+}
+
+.consult{
+    background-image: url(../img/consult.png);
+    padding: 20px;
+}
+
+.consult-title{
+    color: white;
+    margin-left: 80px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.consult-text{
+    font-weight: lighter;
+    font-size: 24px;
+    color: white;
+    margin-left: 80px;
+}
+
+.btn-consult{
+    margin-top: 30px;
+    margin-left: 100px;
+}
